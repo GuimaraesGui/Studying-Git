@@ -1,1 +1,3 @@
-# Studying-Git
+# Studying-Git/Versionamento
+
+## Gravando mudanças no repositório
