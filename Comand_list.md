@@ -39,3 +39,5 @@ Transitar entre Branch) git checout <Nome da Branch>
 Verificar em que Branch esta) git branch
 
 Mover arquivo entre Branch's) git merde <Nome da branch que vai receber o arquivo>
+
+Apagar arquivo) git rm -cached <Nome do arquivo>
